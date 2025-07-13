@@ -41,15 +41,15 @@ Options: `easy`, `medium`, `hard`
 ![Home Screen]
 
 ### 🎮 Game option and choice selection
-![Game Options](./Screenshot%202025-05-18%20130611.png)  
-![Category Selection](./Screenshot%202025-05-18%20130628.png)  
-![Game Choice Selected](./Screenshot%202025-05-18%20130731.png)
+![Game Options]  
+![Category Selection]
+![Game Choice Selected]
 
 ### ❓ Sample Question - True/False
-![True/False Question](./Screenshot%202025-05-18%20130751.png)
+![True/False Question]
 
 ### 🧠 Score & Feedback
-![Score Feedback](./Screenshot%202025-05-18%20130820.png)
+![Score Feedback] 
 
 ---
 
