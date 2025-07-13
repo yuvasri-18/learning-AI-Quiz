@@ -38,17 +38,23 @@ Options: `easy`, `medium`, `hard`
 ## 📸 Screenshots
 
 ### 🖥️ Home Screen
+
 ![Home Screen]
 
 ### 🎮 Game option and choice selection
-![Game Options]  
+
+![Game Options]
+
 ![Category Selection]
+
 ![Game Choice Selected]
 
 ### ❓ Sample Question - True/False
-![True/False Question]
+
+ ![True/False Question]
 
 ### 🧠 Score & Feedback
+
 ![Score Feedback] 
 
 ---
